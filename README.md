@@ -1,2 +1,2 @@
 # RMS Titanic
-It's my first project. On Russian luang
+It's my first project. On Russian language
